@@ -489,3 +489,6 @@ client.on('ready', () => {
         
        
       });
+
+
+clint.login('NTYwODcyMDk4MzE1MzcwNTI3.XM7R_Q.dfjlRDR5EfBTjphAyFnRlnJKJ-s')
